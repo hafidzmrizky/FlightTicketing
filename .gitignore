@@ -4,7 +4,8 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-.idea/modules.xml
+.idea/*.xml
+.idea/modules.xmls
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
@@ -36,3 +37,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+frontend/generated
